@@ -15,8 +15,6 @@ Currently deep-diving into fantasy worlds and game development.
 - **Build & Deploy**: Vite, Webpack, Vercel  
 - **Code Quality**: ESLint, Prettier, Husky  
 
-> Born bitter. Use TypeScript.
-
 ---
 
 ## What I'm Up To  
@@ -26,3 +24,5 @@ Currently deep-diving into fantasy worlds and game development.
 - Occasionally screaming at CSS  
 
 
+
+> Born bitter. Use TypeScript.
