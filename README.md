@@ -24,5 +24,3 @@ Currently deep-diving into fantasy worlds and game development.
 - Occasionally screaming at CSS  
 
 
-
-> Born bitter. Use TypeScript.
