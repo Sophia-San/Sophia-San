@@ -15,12 +15,4 @@ Currently deep-diving into fantasy worlds and game development.
 - **Build & Deploy**: Vite, Webpack, Vercel  
 - **Code Quality**: ESLint, Prettier, Husky  
 
----
-
-## What I'm Up To  
-- Building cool things with **Next.js & TypeScript**  
-- Exploring **frontend performance optimization**  
-- Writing code that doesn't make me cringe in 6 months  
-- Occasionally screaming at CSS  
-
 
